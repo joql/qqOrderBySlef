@@ -1,8 +1,8 @@
 # qq自助下单系统
 
-后台地址 http://localhost/admin/
-账号 admin
-密码 admin123
+后台地址 http://localhost/admin/  
+账号 admin  
+密码 admin123  
 ## 简介
   用户根据卡密自助下单，后台根据订单信息手动开通并更改状态、发送短信通知。
 ## 主要功能
